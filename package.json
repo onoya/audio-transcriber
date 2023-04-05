@@ -1,0 +1,12 @@
+{
+  "name": "audio-transcriber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.15.11",
+    "@types/yargs": "^17.0.24",
+    "axios": "^1.3.4",
+    "yargs": "^17.7.1"
+  }
+}

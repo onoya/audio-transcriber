@@ -1,0 +1,7 @@
+# dependencies
+/node_modules
+
+# transcription service
+/outputs
+
+.DS_Store
