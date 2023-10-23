@@ -4,9 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@types/node": "^18.15.11",
-    "@types/yargs": "^17.0.24",
-    "axios": "^1.4.0",
+    "@types/node": "^18.18.6",
+    "@types/yargs": "^17.0.29",
+    "axios": "^1.5.1",
     "yargs": "^17.7.2"
   }
 }
